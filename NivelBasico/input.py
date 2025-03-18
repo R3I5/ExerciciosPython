@@ -1,2 +1,4 @@
 ## Trabalhando com entrada e saída de dados
-input("Escreva seu nome")
+
+nome = input("Digite seu nome:")
+print(f"Olá, {nome}! Seja bem-vindo ao nosso programa.")
