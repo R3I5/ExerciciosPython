@@ -1,4 +1,5 @@
 ##Faça um programa que peça as 4 notas bimestrais e mostre a média
+##Dia1 
 
 nota1 = float(input("Digite a primeira nota:"))
 nota2 = float(input("Digite a segunda nota:"))
