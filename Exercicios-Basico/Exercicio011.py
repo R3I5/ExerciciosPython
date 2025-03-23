@@ -1,4 +1,4 @@
-#Faça um produto que peça 2 números inteiros e um número real. Calcule e mostre: o produto do dobro
+#Faça um programa que peça 2 números inteiros e um número real. Calcule e mostre: o produto do dobro
 #do primeiro com metade do segundo. A soma do triplo do primeiro com o terceiro e o terceiro elevado ao cubo
 
 inteiro1 = int(input("Digite o primeiro numero inteiro:"))
